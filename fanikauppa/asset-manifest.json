@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fanikauppa/static/css/main.6c5f8cd3.css",
+    "main.js": "/fanikauppa/static/js/main.43812694.js",
+    "static/js/787.78f34a16.chunk.js": "/fanikauppa/static/js/787.78f34a16.chunk.js",
+    "static/media/header.jpeg": "/fanikauppa/static/media/header.b83fdd7906db897b35d7.jpeg",
+    "index.html": "/fanikauppa/index.html",
+    "main.6c5f8cd3.css.map": "/fanikauppa/static/css/main.6c5f8cd3.css.map",
+    "main.43812694.js.map": "/fanikauppa/static/js/main.43812694.js.map",
+    "787.78f34a16.chunk.js.map": "/fanikauppa/static/js/787.78f34a16.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c5f8cd3.css",
+    "static/js/main.43812694.js"
+  ]
+}
